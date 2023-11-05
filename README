@@ -1,0 +1,5 @@
+# AI-Powered Shopping System
+#
+# This project is a software engineering solution that provides online retailers with personalized product suggestions and real-time price tracking. The system is designed to help retailers increase sales and improve customer satisfaction by delivering a more personalized shopping experience.
+#
+# The project is built using Python programming language for building the AI algorithms, ReactJS for the frontend, MySQL database to store product and customer data, and PyTorch for machine learning models.
